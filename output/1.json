@@ -1,0 +1,47 @@
+{
+  "_index" : "arrayexpress",
+  "_type" : "dataset",
+  "_source" : {
+    "dataItem" : {
+      "dataTypes" : [ "organism", "dataItem", "citation" ],
+      "releaseDate" : "2015-06-17",
+      "lastUpdateDate" : "2015-06-20",
+      "description" : "The male germ cell differentiation is a subtle and complex regulation \n            processes, currently its regulatory mechanism is not fully understood. In our experiment, \n            we performed the first comprehensive genome  wide analyses of the crucial genes in three \n            kinds of crucial cells (ESCs, PGCs and SSCs) associated with the male germ cells differentiation.\n             We identified thousands of differentially expressed genes (DEGs) in this process andwe choosed \n             173 candidate genes involved in the differentiation and metabolic processes, like GAL9, AMH, \n             PLK1, PSMD7 and so on. Further exploration found that the candidate genes express patterns \n             were the same between in vitro induction experiments and transcriptome results. Our results \n             clues to the mechanistic basis of male germ cell differentiation and provides an important reference\n              for future studies. Gene expression in chicken germ stem cells was measured at different stages of\n               development.  Three independent experiments were performed at each stage (ESCs, PGCs and SSCs).",
+      "ID" : "524720",
+      "title" : "Crucial genes and pathways in chicken germ stem cell differentiation",
+      "experimentType" : "transcription profiling by array"
+    },
+    "NLP_fields" : {
+      "disease" : [ ],
+      "meshSynonyms" : [ "Genetic Materials", "Gene (substance)", "Gene", "Chicken - meat (substance)", "Chicken", "Bantam (organism)", "Gallus domesticus", "Chicken", "Domestic fowl ancestor", "Bantam", "Gallus gallus domesticus", "Red junglefowl", "Gallus gallus (organism)", "Gallus gallus", "Differentiations, Cell", "Cell Differentiations", "Differentiation, Cell", "Male (finding)", "Male structure", "Male structure (body structure)", "Male individual", "Male", "Differentiations, Cell", "Cell Differentiations", "Differentiation, Cell", "Complex (qualifier value)", "regulation of physiological process", "regulation", "Regulations", "Currently", "Current (qualifier value)", "Mechanisms", "Mechanism", "Mechanisms (qualifier value)", "1st", "First (qualifier value)", "Firstly (qualifier value)", "Genome (substance)", "Genomes", "Genetic Materials", "Gene (substance)", "Gene", "Cell structure", "Set of cells", "Normal cell", "Cell structure (cell structure)", "Cells set", "Cellular structures", "Cellula", "Cell", "Cellular structure", "Male (finding)", "Male structure", "Male structure (body structure)", "Male individual", "Male", "Gametes", "Germ Line Cells", "Germ Cell", "Germ-Line Cells", "Germ-Line Cell", "Cells, Germ-Line", "Cells, Germ", "Haploid nucleated cell", "Cell, Germ-Line", "Haploid germ cell", "Cell, Germ", "Differentiations, Cell", "Cell Differentiations", "Differentiation, Cell", "Genetic Materials", "Gene (substance)", "Gene", "Processus", "Process (observable entity)", "Differentiations, Cell", "Cell Differentiations", "Differentiation, Cell", "General metabolic function", "Metabolic Process", "Process, Metabolic", "Metabolic Processes", "General metabolic function (observable entity)", "Catabolism", "Processes, Metabolic", "Anabolism", "MIS", "anti-Mullerian hormone", "AMH", "polo-like kinase 1", "PLK1", "PSMD7", "S12", "MOV34", "proteasome (prosome, macropain) 26S subunit, non-ATPase, 7", "Mov34 homolog", "P40", "Rpn8", "Exploration - action", "Exploration", "Exploration procedure (procedure)", "Exploration - action (qualifier value)", "Patterns (qualifier value)", "Pattern", "Pattern (attribute)", "Same (qualifier value)", "Induced (qualifier value)", "Transcriptomes", "Male (finding)", "Male structure", "Male structure (body structure)", "Male individual", "Male", "Gametes", "Germ Line Cells", "Germ Cell", "Germ-Line Cells", "Germ-Line Cell", "Cells, Germ-Line", "Cells, Germ", "Haploid nucleated cell", "Cell, Germ-Line", "Haploid germ cell", "Cell, Germ", "Differentiations, Cell", "Cell Differentiations", "Differentiation, Cell", "Gene expression (finding)", "Expression, Gene", "Gene Expressions", "Expressions, Gene", "Bantam (organism)", "Gallus domesticus", "Chicken", "Domestic fowl ancestor", "Bantam", "Gallus gallus domesticus", "Red junglefowl", "Gallus gallus (organism)", "Gallus gallus", "Chicken - meat (substance)", "Chicken", "Cell structure", "Set of cells", "Normal cell", "Cell structure (cell structure)", "Cells set", "Cellular structures", "Cellula", "Cell", "Cellular structure", "Stages", "Stage (attribute)", "Stages (qualifier value)", "Development, Human", "Independently able (qualifier value)", "Independent", "Stages", "Stage (attribute)", "Stages (qualifier value)", "Tumor stage (observable entity)", "Tumour stage", "Phase (attribute)" ],
+      "gene" : [ "degs", "amh", "plk1", "psmd7" ],
+      "chemicalSynonyms" : [ ],
+      "diseaseSynonyms" : [ ],
+      "meshID" : [ "C0017337", "C1705987", "C1704259", "C0677521", "C1365945", "C0008051", "C1517528", "C0007589", "C0086582", "C0007589", "C0439855", "C1704241", "C1327622", "C0851285", "C0521116", "C1704735", "C0220905", "C1706376", "C0441712", "C0681814", "C1706386", "C0205435", "C1279901", "C1880156", "C2338314", "C0017428", "C0017337", "C0007634", "C3282337", "C0086582", "C0017471", "C0007589", "C0017337", "C1184743", "C1522240", "C1332838", "C2945687", "C0007589", "C1511938", "C0025519", "C1412384", "C0687670", "C1335227", "C1419038", "C1517331", "C1280903", "C1332838", "C0449774", "C0445247", "C1533691", "C0857127", "C0205263", "C3178810", "C1874451", "C1527178", "C0086582", "C0017471", "C1517530", "C0007589", "C1514811", "C1706462", "C0016884", "C0947630", "C0017262", "C1365945", "C0008051", "C0677521", "C1517528", "C0007634", "C3282337", "C1705242", "C1306673", "C1527148", "C0678723", "C0020119", "C0243107", "C1299583", "C0085862", "C1306673", "C1300072", "C0205390" ],
+      "BP" : [ "stem cell differentiation", "cell differentiation", "regulation", "gene expression" ],
+      "chemicalID" : [ ],
+      "goID" : [ "GO:0048863", "GO:0030154", "GO:0065007", "GO:0010467" ],
+      "geneID" : [ "C1539265", "C1412384", "C1335227", "C1419038" ],
+      "chemical" : [ ],
+      "geneSynonyms" : [ "dihydroceramide desaturase 1", "DES1", "delta(4)-desaturase, sphingolipid 1", "FADS7", "MLD", "sphingolipid delta(4)-desaturase 1", "DEGS-1", "DEGS1", "Des-1", "MIS", "anti-Mullerian hormone", "AMH", "polo-like kinase 1", "PLK1", "PSMD7", "S12", "MOV34", "proteasome (prosome, macropain) 26S subunit, non-ATPase, 7", "Mov34 homolog", "P40", "Rpn8" ],
+      "meshterm" : [ "genes", "pathway (interactions)", "biochemical pathway", "chicken meat", "chicken flavor", "chickens", "germ", "cell differentiation process", "males", "cell differentiation process", "complex", "complex (molecular entity)", "regulation of biological process", "regulation", "current (present time)", "regulator", "regulatory", "mechanism component of device", "mechanism (attribute)", "research study", "experiment object", "first (number)", "firstly", "comprehensive", "genome - anatomical entity", "genome", "genes", "cells", "cells [chemical/ingredient]", "males", "germ cells", "cell differentiation process", "genes", "bony process", "process", "candidate disease gene", "differentiation", "cell differentiation process", "histopathologic grade differentiation", "metabolism", "amh gene", "mullerian duct inhibiting substance", "plk1 gene", "psmd7 gene", "further", "exploration procedure", "candidate disease gene", "patterns", "same", "in vitro", "induction procedure", "induce (action)", "transcriptome", "basis", "basis - conceptual entity", "males", "germ cells", "mouse germ cell", "cell differentiation process", "bibliographic reference", "reference object", "future", "scientific study", "gene expression", "chicken flavor", "chickens", "chicken meat", "germ", "cells", "cells [chemical/ingredient]", "different", "stage", "development", "biologic development", "human development", "development aspects", "independently able", "independence", "stage", "tumor stage", "phase" ],
+      "cellLine" : [ ],
+      "diseaseID" : [ ]
+    },
+    "organism" : {
+      "experiment" : {
+        "species" : "Gallus gallus"
+      }
+    },
+    "citation" : {
+      "count" : "0"
+    },
+    "dataResource" : {
+      "altNames" : [ ],
+      "acronyms" : [ ],
+      "keywords" : [ ]
+    }
+  },
+  "_id" : "5870e842-5b5a-40ee-b196-75b3fd7da0ac",
+  "_score" : 1.0
+}
